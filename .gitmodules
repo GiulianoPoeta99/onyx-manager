@@ -1,0 +1,9 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/GiulianoPoeta99/onyx-manager-app.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/GiulianoPoeta99/onyx-manager-backend.git
+[submodule "database"]
+	path = database
+	url = https://github.com/ushdeveloper/postgres-container.git
